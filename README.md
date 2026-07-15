@@ -31,6 +31,16 @@ La primera captura reveló valores sin redondear, contraste insuficiente, etique
 
 → [Leer: La primera huella de Jarvis](docs/02-la-primera-huella-de-jarvis.md)
 
+## El día en que empezó a investigar
+
+El 15 de julio, la prueba dejó de ser principalmente visual. Jarvis reconstruyó la semántica de la Sala antes de traducirla a LCARS y después siguió el recorrido de seis cámaras a través de Frigate, FFmpeg y dos capas de go2rtc.
+
+Encontró configuración que validaba en disco pero todavía no vivía en Home Assistant, un mecanismo de recuperación que terminaba antes del reinicio, una cámara con carga desproporcionada y una hipótesis propia que tuvo que retirar cuando el conocimiento físico de la casa la contradijo.
+
+Lo importante ya no fue una respuesta brillante. Fue la aparición de un método estable: observar, indexar, medir, corregirse, respaldar y saber detenerse.
+
+→ [Leer: Cuando Jarvis empezó a investigar](docs/05-cuando-jarvis-empezo-a-investigar.md)
+
 ## Qué vive aquí
 
 | Área | Propósito |
@@ -40,6 +50,7 @@ La primera captura reveló valores sin redondear, contraste insuficiente, etique
 | [Primera huella](docs/02-la-primera-huella-de-jarvis.md) | La primera intervención autónoma documentada |
 | [Principios](docs/03-principios.md) | Reglas para que la casa evolucione sin perder control |
 | [Roadmap](docs/04-roadmap.md) | Próximos pasos técnicos y narrativos |
+| [Método de investigación](docs/05-cuando-jarvis-empezo-a-investigar.md) | De la memoria extensa al criterio operativo |
 | [Seguridad](SECURITY.md) | Qué nunca debe publicarse ni delegarse sin control |
 
 ## La idea central
