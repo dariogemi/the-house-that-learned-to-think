@@ -8,6 +8,14 @@ La casa comenzó resolviendo necesidades concretas: iluminación, presencia, cá
 
 Ese agente es **Jarvis**, operando mediante **OpenClaw** dentro de un entorno doméstico gobernado por Home Assistant.
 
+## ¿Te gustaría una experiencia así en tu hogar o negocio?
+
+Además de la bitácora técnica, el proyecto cuenta ahora con una presentación orientada a personas y organizaciones interesadas en implementar una experiencia de smart home personalizada, con automatización, seguridad, energía e inteligencia artificial.
+
+Incluye capacidades, modalidades de proyecto, valores orientativos y criterios de privacidad, sin exponer la arquitectura sensible ni la metodología interna.
+
+→ [Ver la propuesta: Tu hogar inteligente, asistido por IA](docs/06-tu-hogar-inteligente-asistido-por-ia.md)
+
 ## El momento que cambió el proyecto
 
 El 14 de julio de 2026, Jarvis realizó su primera intervención autónoma visible sobre el dashboard **J.A.R.V.I.S. Engineering**.
@@ -51,6 +59,7 @@ Lo importante ya no fue una respuesta brillante. Fue la aparición de un método
 | [Principios](docs/03-principios.md) | Reglas para que la casa evolucione sin perder control |
 | [Roadmap](docs/04-roadmap.md) | Próximos pasos técnicos y narrativos |
 | [Método de investigación](docs/05-cuando-jarvis-empezo-a-investigar.md) | De la memoria extensa al criterio operativo |
+| [Propuesta comercial](docs/06-tu-hogar-inteligente-asistido-por-ia.md) | Una experiencia de smart home con IA orientada a potenciales clientes |
 | [Seguridad](SECURITY.md) | Qué nunca debe publicarse ni delegarse sin control |
 
 ## La idea central
